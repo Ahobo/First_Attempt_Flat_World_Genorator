@@ -8,4 +8,4 @@ First_Attempt_Flat_World_Genorator is licensed under:
 
 All use of this code is free for anyone to use.
 
--Ahobo30 , Pathetic starter programmer : D
+-Ahobo , Pathetic starter programmer : D
