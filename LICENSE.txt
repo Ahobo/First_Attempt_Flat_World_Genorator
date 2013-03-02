@@ -1,0 +1,11 @@
+-----------------
+"First_Attempt_Flat_World_Genorator" License:
+-----------------
+
+First_Attempt_Flat_World_Genorator is licensed under:
+
+                    Public Domain
+
+All use of this code is free for anyone to use.
+
+-Ahobo30 , Pathetic starter programmer : D
