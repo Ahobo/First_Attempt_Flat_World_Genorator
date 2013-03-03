@@ -1,0 +1,10 @@
+PreRelease:
+Version 0.4 -
+- Offset given to trees so it looks more natural.(Still unatrual)
+- Now there are big trees and small trees!
+Version 0.3 -
+- Trees! Lots of trees!
+Version 0.2 -
+- Now the map will just spawn as a layer of BedRock
+Version 0.1 -
+- Base coding. Nothing special
